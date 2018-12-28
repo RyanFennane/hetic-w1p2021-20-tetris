@@ -1,1 +1,13 @@
-# hetic-w1p2021-20-tetris
+Semaine Intensive JavaScript - Equipe Tetris
+
+Membres: 
+
+Balducci Victor 
+Fennane Ryan 
+Shao Jacky 
+Louzoun Nathanael 
+Maddi Feriel 
+
+Lien du jeu : 
+
+https://smog.netlify.com/
