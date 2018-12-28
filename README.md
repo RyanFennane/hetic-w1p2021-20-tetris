@@ -1,4 +1,4 @@
-[b}Semaine Intensive JavaScript - Equipe Tetris[/b]
+Semaine Intensive JavaScript - Equipe Tetris
 
 Membres: 
 
